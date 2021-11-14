@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+button{
+    color: white;
+    background-color: gray;
+}
+.boton1{
+    height: 50px;
+    width: 75px;
+    color: white;
+}
