@@ -8,8 +8,9 @@ button{
     background-color: gray;
 }
 .boton1{
-    height: 50px;
-    width: 75px;
+    height: 75px;
+    width: 125px;
     color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:cursive;
+    font-weight:bold;
 }
