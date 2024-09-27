@@ -8,8 +8,10 @@ button{
     background-color: gray;
 }
 .boton1{
-    height: 100px;
-    width: 175px;
+
+    height: 75px;
+    width: 125px;
     color: white;
-    font-size: 25pt;
+    font-family:cursive;
+    font-weight:bold;
 }
